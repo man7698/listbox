@@ -1,0 +1,7 @@
+F:\T.I\L.P\2ºBimestre\listbox\listbox\bin\Debug\listbox.exe
+F:\T.I\L.P\2ºBimestre\listbox\listbox\bin\Debug\listbox.pdb
+F:\T.I\L.P\2ºBimestre\listbox\listbox\obj\x86\Debug\listbox.Form1.resources
+F:\T.I\L.P\2ºBimestre\listbox\listbox\obj\x86\Debug\listbox.Properties.Resources.resources
+F:\T.I\L.P\2ºBimestre\listbox\listbox\obj\x86\Debug\listbox.csproj.GenerateResource.Cache
+F:\T.I\L.P\2ºBimestre\listbox\listbox\obj\x86\Debug\listbox.exe
+F:\T.I\L.P\2ºBimestre\listbox\listbox\obj\x86\Debug\listbox.pdb
